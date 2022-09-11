@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AndrezaDevid
-- I'm student Software Engineer
 
 
 <!---
